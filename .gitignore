@@ -1,5 +1,6 @@
 # Ignore everything
 *
+
 # Don't ignore these specific files
 !/.gitignore
 !/README.md
@@ -10,39 +11,12 @@
 !/.clinerules-code
 !/promt-settings-page.jpg
 
-# IDE files
-.vscode/
-.idea/
+# But do NOT ignore these directories and their contents:
+!/docs
+!/custom-instructions
 
-# Dependency directories
-node_modules/
-bower_components/
+# do not exclude memory bank directory
+#!/memory-bank/
 
-# Logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Environment variables
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# OS generated files
-.DS_Store
-
-# Build output
-dist/
-build/
-
-# Temporary files or project specific files
-Screenshot*.jpg
-PLAN_SYNC.md
-rc-mem-bank-tree.txt
-roo-code-memory-bank.md
-
-# Exclude memory bank directory
-memory-bank/
+# Also, do NOT ignore the .gitignore file itself
+!.gitignore
