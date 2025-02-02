@@ -173,7 +173,7 @@ This repository contains the Memory Bank for the Roo Code project, designed to m
 
 **Documentation**
 
-- [User Guide](docs/user-guide.md): Comprehensive guide on using the Roo Code Memory Bank system.
+- [User Guide](docs/user-guide.txt): Comprehensive guide on using the Roo Code Memory Bank system.
 
 **Custom Instructions**
 
@@ -187,7 +187,7 @@ This repository contains the Memory Bank for the Roo Code project, designed to m
 
 **Getting Started**
 
-Refer to the [User Guide](docs/user-guide.md) for detailed setup and usage instructions.
+Refer to the [User Guide](docs/user-guide.txt) for detailed setup and usage instructions.
 
 **Repository Structure**
 
@@ -202,7 +202,7 @@ roo-code-memory-bank/
 │   ├── role-ask.md
 │   └── role-code.md
 ├── docs/
-│   └── user-guide.md
+│   └── user-guide.txt
 ├── memory-bank/ # Excluded from Git (local memory bank)
 └── .gitignore 
 ```
