@@ -13,3 +13,14 @@
 !/promt-settings-page.jpg
 
 # Don't ignore memory-bank directory and its contents
+!/memory-bank/
+
+# IDE files
+.vscode/
+.idea/
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
