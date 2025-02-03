@@ -12,11 +12,18 @@
 !/promt-settings-page.jpg
 
 # But do NOT ignore these directories and their contents:
-!/docs
-!/custom-instructions
+!/docs/
+!/docs/images/
+!/custom-instructions/
 
+<<<<<<< HEAD
 # do not exclude memory bank directory
 #!/memory-bank/
 
 # Also, do NOT ignore the .gitignore file itself
 !.gitignore
+=======
+# Also, do NOT ignore these files:
+!.gitignore
+!README.md
+>>>>>>> 66b7014 (chore: Remove memory-bank/activeContext.md from repository and ignore memory-bank/ directory)
