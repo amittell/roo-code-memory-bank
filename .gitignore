@@ -26,4 +26,8 @@
 # Also, do NOT ignore these files:
 !.gitignore
 !README.md
+<<<<<<< HEAD
 >>>>>>> 66b7014 (chore: Remove memory-bank/activeContext.md from repository and ignore memory-bank/ directory)
+=======
+!updates.md
+>>>>>>> 5f80881 (Update documentation and rename memory-bank-deep-dive.md to developer-primer.md)
