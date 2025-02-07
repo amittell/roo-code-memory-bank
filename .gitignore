@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ignore everything
 *
 
@@ -46,35 +47,30 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+=======
+# Archived content
+archived/
+>>>>>>> e7ad51e (restructured)
 
-# Editor directories and files
-.idea/
-.vscode/
-*.swp
-*.swo
-*~
-
-# Dependency directories
+# Node modules
 node_modules/
-vendor/
-
-# Build directories
-dist/
-build/
-out/
 
 # Environment files
 .env
-.env.local
 .env.*
 
-# Log files
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# IDE files
+.vscode/
+.idea/
+*.iml
 
+<<<<<<< HEAD
 # Temporary files
 *.tmp
 *.temp
 >>>>>>> 08782aa (Initial Redesign using custom modes)
+=======
+# OS files
+.DS_Store
+Thumbs.db
+>>>>>>> e7ad51e (restructured)
