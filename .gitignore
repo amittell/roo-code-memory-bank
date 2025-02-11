@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Ignore everything
 *
-
-
 # Don't ignore these specific files
 !/.gitignore
 !/README.md
@@ -13,24 +10,16 @@
 !/.clinerules-code
 !/promt-settings-page.jpg
 
-# Don't ignore memory-bank directory and its contents
-!/memory-bank/
-
 # IDE files
 .vscode/
 .idea/
 
-# Node modules
-=======
 # Dependency directories
->>>>>>> f85b62e (Updated .gitignore to exclude /memory-bank directory)
 node_modules/
 bower_components/
 
 # Logs
 *.log
-<<<<<<< HEAD
-=======
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
@@ -45,9 +34,6 @@ yarn-error.log*
 # OS generated files
 .DS_Store
 
-# IDE/editor directories
-.vscode/
-
 # Build output
 dist/
 build/
@@ -60,4 +46,3 @@ roo-code-memory-bank.md
 
 # Exclude memory bank directory
 memory-bank/
->>>>>>> f85b62e (Updated .gitignore to exclude /memory-bank directory)
