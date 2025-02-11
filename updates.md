@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Progress Log
 
 ## 2025-02-09: Intelligent Mode Switching Implementation
@@ -166,4 +165,3 @@ This file provides a user-friendly overview of project progress, derived from `m
 ## Current Status
 
 Documentation review and revision - **user-guide.txt revisions completed and simplified for users with coding knowledge**. Custom instruction revisions completed and reviewed. Final review completed. Ready for next steps.
->>>>>>> 5f80881 (Update documentation and rename memory-bank-deep-dive.md to developer-primer.md)
